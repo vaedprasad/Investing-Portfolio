@@ -1,7 +1,5 @@
 # Investing-Portfolio
 
-AUTHOR: VAED PRASAD
+AUTHOR: Vaed Prasad
 
-
-
-CREATED AT HARVARD UNIVERSITY PRE-COLLEGE: INTRODUCTION TO WEB PROGRAMMING
+Created at Harvard University Pre-College: Introduction to Web-Programming
